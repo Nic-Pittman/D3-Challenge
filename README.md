@@ -31,6 +31,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
+![4-scatter](https://user-images.githubusercontent.com/69124282/100886054-5962ba00-3481-11eb-9778-1a07aafc06b7.png)
+
 ![](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/ur-rich-data-pt-08-2020-u-c/raw/master/Homework/16-D3/Instructions/Images/4-scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
@@ -52,7 +54,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 Why make a static graphic when D3 lets you interact with your data?
 
-![](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/ur-rich-data-pt-08-2020-u-c/raw/master/Homework/16-D3/Instructions/Images/7-animated-scatter.gif)
+![7-animated-scatter](https://user-images.githubusercontent.com/69124282/100886123-713a3e00-3481-11eb-8eee-75c169506597.gif)
 
 ### 1. More Data, More Dynamics
 
@@ -65,4 +67,4 @@ You're going to include more demographics and more risk factors. Place additiona
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the d3-tip.js plugin developed by Justin Palmer—we've already included this plugin in your assignment directory.
 
-![](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/ur-rich-data-pt-08-2020-u-c/raw/master/Homework/16-D3/Instructions/Images/8-tooltip.gif)
+![8-tooltip](https://user-images.githubusercontent.com/69124282/100886158-7c8d6980-3481-11eb-9f5b-4e3f2e2c6152.gif)
